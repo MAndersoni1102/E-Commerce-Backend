@@ -1,3 +1,4 @@
+//Connects to a PostgreSQL database
 require('dotenv').config();
 
 const Sequelize = require('sequelize');
